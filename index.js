@@ -1,8 +1,8 @@
 import express from 'express';
 
-import { Anime } from './models/anime.js';
-import { Jutsu } from './models/jutsu.js';
-import { Villages } from './models/villages.js';
+import Anime from './models/anime.js';
+import Jutsu from './models/jutsu.js';
+import Villages from './models/villages.js';
 
 
 
